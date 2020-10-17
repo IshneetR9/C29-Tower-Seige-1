@@ -1,2 +1,2 @@
-# C29-Tower-Seige-1
-Game to shoot the tower of blocks.
+# p5.play-boilerplate
+Boiler plate for p5.play
